@@ -1,0 +1,9 @@
+customer_id,customer_name,email,phone,last_4_ssn,country,segment,created_at
+C-001,Northwind Labs,anna.nowak@example.com,+48-500-100-001,1201,PL,B2B,2026-07-01
+C-002,Blue Meadow,michal.kowalski@example.com,+48-500-100-002,2210,PL,B2C,2026-07-01
+C-003,Rhein Handel,lena.schmidt@example.com,+49-160-100-003,7822,DE,B2B,2026-07-02
+C-004,Seine Retail,pierre.martin@example.com,+33-600-100-004,9941,FR,B2C,2026-07-02
+C-005,Hudson Analytics,emily.johnson@example.com,+1-212-100-005,4412,US,B2B,2026-07-03
+C-006,Maple Data Co,oliver.brown@example.com,+1-416-100-006,3309,CA,B2C,2026-07-03
+C-007,Azteca Systems,sofia.garcia@example.com,+52-55-100-007,6508,MX,B2B,2026-07-04
+C-008,Nordic BI,emma.larsen@example.com,+45-20-100-008,1177,DK,B2C,2026-07-04
